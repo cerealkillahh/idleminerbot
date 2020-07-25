@@ -14,7 +14,7 @@ This program i wrote will automatically do several commands every few minutes;
 
 The program uses the npm package `Puppeteer`. This allows us to log in to discord, read everything from the page and type stuff on the discordapp.
 
-#Installation
+# Installation
 - Download and install NodeJs https://nodejs.org/en/
 
 - Open up cmd/terminal/powershell and clone this repository
@@ -43,7 +43,7 @@ Example url: https://discord.com/channels/518774827360976896/540643915137548321
 - Run `bot.js` by typing:
     `$ node .\bot.js`
     
-#Disclaimer
+# Disclaimer
 This program is free to use but keep in mind that this can be qualified as a `Discord self bot` which is not allowed.
 
 I'm not sure if the developers of the Idle Miner Discord Bot allow automating/botting so use this at your own risk.
