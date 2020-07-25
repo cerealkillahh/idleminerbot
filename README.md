@@ -1,4 +1,4 @@
-# Idle miner bot
+# Idle miner bot created by CerealKillahh#8026
 This program is made for the Idle Miner Discord bot:
 https://top.gg/bot/518759221098053634
 
