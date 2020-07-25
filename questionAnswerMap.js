@@ -45,5 +45,9 @@ module.exports = {
     'Which of the following provides the most amount of light?': 'Lantern',
     'What was Minecraft almost called?': 'Cave Game',
     'If you put an iron ingot into a crafting table, you can craft iron nuggets.' : 'True',
-    'Which item is needed to brew a Splash Potion?': 'Gunpowder'
+    'Which item is needed to brew a Splash Potion?': 'Gunpowder',
+    'Which item is needed to brew a Lingering Potion?': 'Dragon’s Breath',
+    'You can tell a wolf\'s health by their what?': 'Tail',
+    'How many Eyes of Ender are needed to activate the End portal?': '12',
+    'How many books are needed to craft an enchanting table?': '1'
 };
