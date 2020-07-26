@@ -60,7 +60,5 @@ module.exports = {
     'What\'s the highest level of Efficiency you can add to a diamond pickaxe using an enchantment table? ': '4',
     'How much damage (in hearts) does a Potion of Harming do?': '6',
     'Which mob is able to teleport?': 'Enderman',
-    'Which item is needed to increase the duration of a potion?': 'Redstone Dust',
-    'Which block is shown in the picture?': 'Missing texture block',
-    'How many Ender Pearls can fit into a single inventory slot?': '16'
+    'Which item is needed to increase the duration of a potion?': 'Redstone Dust'
 };
