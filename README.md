@@ -43,6 +43,9 @@ Example url: https://discord.com/channels/518774827360976896/540643915137548321
 - Run `bot.js` by typing:
     `$ node .\bot.js`
     
+- If you want to run the bot on the background you can run it with `mp2 start bot`
+  and then close your terminal. If you want to stop the bot you open your terminal again and type `mp2 stop bot`.
+  
 # Disclaimer
 This program is free to use but keep in mind that this can be qualified as a `Discord self bot` which is not allowed.
 
